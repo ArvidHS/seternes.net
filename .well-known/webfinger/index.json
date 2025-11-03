@@ -1,0 +1,9 @@
+{
+    "links": [
+        {
+            "href": "https://auth.seternes.top/application/o/<application_slug>/",
+            "rel": "http://openid.net/specs/connect/1.0/issuer"
+        }
+    ],
+    "subject": "acct:arvidh@seternes.net"
+}
