@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Seternes;Arvid Håkon;;;
+FN:Arvid Håkon Seternes
+ORG:NorQ AS
+ADR;TYPE=WORK:c/o Arvid Håkon Seternes, Måsøyvalveien 9, 7266 KVERVA
+TITLE:CEO
+TEL;TYPE=CELL:+4747204574
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:arvidh@seternes.net
+URL;TYPE=Digital Business Card:
+URL:https://seternes.net
+URL;TYPE=Website:https://seternes.net
+URL;TYPE=GitHub:https://github.com/ArvidHS
+URL;TYPE=Snapchat:https://www.snapchat.com/add/arvidhss
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:IT Consulting & SaaS Services
+UID:EnBizCard-100057522
+END:VCARD
